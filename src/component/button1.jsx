@@ -11,7 +11,7 @@ const Button1 = () => {
             name="text"
             class="input font-semibold text-lg h-full opacity-90 w-full px-10 py-1 rounded-xl bg-black"
           >
-            Shop Now
+            Shop here
           </button>
         </div>
         <div class="absolute duration-1000 group-hover:animate-spin w-full h-[100px] bg-gradient-to-r from-green-500 to-yellow-500 blur-[30px]"></div>
