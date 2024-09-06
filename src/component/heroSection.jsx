@@ -21,7 +21,7 @@ const HeroSection = () => {
             <Button2 />
           </div>
         </div>
-        <div className="px-9 py-6md:min-w-96 cursor-pointer">
+        <div className="px-9 py-6 md:min-w-96 cursor-pointer">
           <img src={shoe} alt="shoe-image" />
         </div>
       </div>
